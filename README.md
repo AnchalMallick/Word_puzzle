@@ -1,0 +1,2 @@
+# Word_puzzle
+This is a text based game in which the player is given five jumbled words one by one, he is supposed to answer the meaningful word for each of them within a specified time limit. If he answers correct and in time, one point is awarded, else no point is given.In the beginning of the game, the user is prompted to choose the level of difficulty. At the end, he is prompted to decide if he wants to play again or quit.Knowledge of data structures, time module, random module and threading module has been used to write this code. module 
